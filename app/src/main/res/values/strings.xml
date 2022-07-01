@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">warungku</string>
+    <string name="login_title">LOGIN PAGE</string>
+    <string name="email_text">Email/Phone</string>
+    <string name="password_text">Password</string>
+    <string name="register_text">Belum punya akun? Silahkan</string>
+    <string name="register_click">&#160;register</string>
+    <string name="login_button">LOGIN</string>
+    <string name="register_button">REGISTER</string>
+    <string name="repassword_text">Re-Password</string>
+    <string name="register_title">REGISTER PAGE</string>
+    <string name="nama_warung">Nama Warung</string>
+    <string name="koordinat">Koordinat</string>
+    <string name="alamat">Alamat</string>
+    <string name="submit">SUBMIT</string>
+</resources>
